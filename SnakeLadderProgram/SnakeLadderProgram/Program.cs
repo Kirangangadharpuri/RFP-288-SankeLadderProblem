@@ -10,7 +10,6 @@ namespace SnakeLadderProgram
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the Snake and Ladder Program");
             SnakeLadder snakeLadder = new SnakeLadder();
             snakeLadder.RollingDice();
         }
